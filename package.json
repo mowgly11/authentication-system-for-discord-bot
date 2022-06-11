@@ -1,0 +1,21 @@
+{
+    "name": "djs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "discord.js": "^13.1.0",
+        "glob": "^7.1.7",
+        "mongoose": "^6.0.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}
